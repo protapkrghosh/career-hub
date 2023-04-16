@@ -1,0 +1,24 @@
+.blog {
+    padding: 50px 0;
+    background-color: #9fbaf54f;
+}
+.containers {
+    max-width: 1000px;
+    margin: auto;
+}
+.head-title {
+    padding: 20px;
+    background-color: #6976ff5b;
+    border-radius: 8px;
+    margin: 0 20px 20px 20px;
+}
+.head-title h1 {
+    border-bottom: 1px solid #0037ff81;
+    padding-bottom: 14px;
+    margin-bottom: 14px;
+    font-weight: 700;
+}
+.head-title p {
+    font-weight: 500;
+    line-height: 25px;
+}
